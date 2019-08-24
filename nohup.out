@@ -1,0 +1,4 @@
+  File "bingBackGround.py", line 86
+    except:
+         ^
+SyntaxError: invalid syntax
